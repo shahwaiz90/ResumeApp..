@@ -114,7 +114,7 @@
     <string name="description">Description</string>
     <string name="AboutMe_Title">About Me</string>
     <string name="Question1">Where do you see yourself in the next five years?</string>
-    <string name="Question2">Why should I hire you?</string>
+    <string name="Question2">Why should you hire me?</string>
     <string name="Question3">What are your hobbies and interests?</string>
     <string name="Question4">What are your hobbies and interests?</string>
     <string name="Question5">What are your hobbies and interests?</string>
@@ -133,34 +133,83 @@
     <string name="answer">My goal right now is to find a position at a company where I can grow and take on new challenges over time. But most importantly, I want to work for an organization where I can build a career.”</string>
     <string name="answer1">I have all of the skills and experience that you’re looking for and I’m confident that I would be do best.</string>
     <string name="experience_title">Android Developer</string>
-    <string name="experience_description">Android internship 3 months experience
-Yummy apps</string>
+    <string name="experience_description">"\u2713 Picasso,Glide (Libraries)\n""\u2713 MVP \n""\u2713 MVVM \n""\u2713 Room Database\n""\u2713 Firebase"</string>
+    <string name="why_i_did_choose_work_1">"\u2713 Because I need to cache the image\n""\u2713 Design pattern - unit testing easier and lesser\n"\u0020 \u0020 "code size than MVP\n""\u2713 Design pattern - Easier for unit testing\n""\u2713 Save data in a local database using Room\n""\u2713 Firebase provides a realtime database and \n"\u0020 \u0020 "backend as a service"
+
+    </string>
+
     <string name="year11">(year)</string>
     <string name="experience_title1">Experience title</string>
-    <string name="experience_description1"></string>
+    <string name="experience_description1">\u2713 Experience Description</string>
     <string name="experience_year1">(year)</string>
     <string name="experience_title2">Experience Title</string>
-    <string name="experience_description2">Experience Description</string>
+    <string name="experience_description2">\u2713 Experience Description</string>
     <string name="experience_year2">(year)</string>
 
 
 
 
     <string name="project_title">Smart Gym App</string>
-    <string name="project_description">Smart way to manage your gym</string>
+    <string name="project_description">\u2713 Smart way to manage your gym</string>
     <string name="year">(2019)</string>
 
     <string name="project_title1">Lapi Chat App</string>
-    <string name="project_description1">"SMS messages\n"
-               "Plus friend (get exclusive deals from our favorite brands)\n"
-                 "Contacts management\n"
-                "Audio and graphics\n"
-            "Sharing (photos and videos)"
 
-    </string>
+    <string name="project_description1">"\u2713 Plus friend (get exclusive deals from our favorite brands)\n""\u2713 Contacts management\n""\u2713 SMS messages\n""\u2713 Audio and graphics\n""\u2713 Sharing (photos and videos)"</string>
     <string name="year1">(2019)</string>
     <string name="project_title2">Smart Restaurant App </string>
-    <string name="project_description2">Smart way to manage your gym</string>
+    <string name="project_description2">\u2713 Smart way to manage your gym</string>
     <string name="year2">(2019)</string>
+    <string name="todo">TODO</string>
+    <string name="email_title">Email</string>
+    <string name="address_title">Address</string>
+    <string name="phone_number_title">Phone Number</string>
+    <string name="professional_links_title">Professional Links</string>
+    <string name="linkedin_title">Linkedin</string>
+    <string name="twitter_title">Twitter</string>
+    <string name="stack_overflow_title">Stack Overflow</string>
+    <string name="github_title">Github</string>
+    <string name="Metric_degree_title">Metric</string>
+    <string name="school_name">Central Model school</string>
+    <string name="intermediate_title">Intermediate</string>
+    <string name="college_title">Islamia College Lahore</string>
+    <string name="graduation_title">Graduation</string>
+    <string name="university_title">Superior university</string>
+    <string name="degree_title1">Degree Title</string>
+    <string name="degree_title2">Degree Title</string>
+    <string name="degree_title3">Degree Title</string>
+    <string name="school_year">(2014)</string>
+    <string name="college_year">(2016)</string>
+    <string name="university_year">(Present)</string>
+    <string name="Cgpa">(2.98 Cgpa)</string>
+    <string name="certification_courses_title">Certification Courses</string>
+    <string name="institute_title">Institute Title</string>
+    <string name="institute_year">(year)</string>
+    <string name="grades">(grades)</string>
+    <string name="institute_title1">Institute Title</string>
+    <string name="institude_year1">(year)</string>
+    <string name="grades1">(grades)</string>
+    <string name="institute_title2">Institute Title</string>
+    <string name="institute_year2">(year)</string>
+    <string name="grades2">(grades)</string>
+    <string name="skill_title_1">Communication</string>
+    <string name="skill_title_2">Android SDk</string>
+    <string name="skill_title_3">Android (Xml)</string>
+    <string name="skill_title_4">Java</string>
+    <string name="skill_title_5">Database</string>
+    <string name="projects_title">Projects</string>
+    <string name="why_i_did_choose_above_title_1">Why i did choose above :</string>
+    <string name="why_i_did_choose_work_2">"\u2713 explanation"</string>
+    <string name="why_i_did_choose_work_3">"\u2713 explanation"</string>
+    <string name="company_name1">Yumy Apps</string>
+    <string name="experiance_time1">July 2019 - Present - 2 mos</string>
+    <string name="worked_on_title">Worked On :</string>
+    <string name="company_name2">company name</string>
+    <string name="experience_time2">experience time</string>
+    <string name="worked_on2">Worked On :</string>
+    <string name="company_name3">company name</string>
+    <string name="experience_time3">experience time</string>
+    <string name="worked_on3">Worked On :</string>
+
 
 </resources>

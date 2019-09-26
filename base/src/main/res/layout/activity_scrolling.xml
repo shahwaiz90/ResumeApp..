@@ -35,18 +35,16 @@
                     android:background="@color/grayColor"
                     android:id="@+id/coverPhoto"
                     android:scaleType="fitXY"
-
-
+                    android:contentDescription="@string/todo"
                     />
 
 
-            <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
+            <de.hdodenhof.circleimageview.CircleImageView
                 android:id="@+id/profile"
                 android:layout_width="96dp"
                 android:layout_height="125dp"
                 android:layout_gravity="center"
                 android:layout_marginBottom="30dp" />
-
             <TextView
                 android:id="@+id/userName"
                 android:layout_width="match_parent"
@@ -79,9 +77,6 @@
                     android:layout_marginBottom="50dp"
                     app:layout_collapseMode="pin"
                     app:popupTheme="@style/AppTheme.PopupOverlay"
-
-
-
                     />
 
 
@@ -94,7 +89,8 @@
                 android:background="@color/whiteColor"
                 app:layout_collapseMode="pin"
                 app:layout_scrollFlags="scroll|enterAlways"
-                app:tabContentStart="00dp"
+                app:tabMode="fixed"
+
                 app:tabTextColor="@color/blue1Color"
                 app:tabIndicatorColor="@color/blue1Color"
                 app:tabSelectedTextColor="@color/blackColor"
@@ -102,7 +98,7 @@
                 app:tabInlineLabel="true"
                 app:tabGravity="fill"
                 app:tabTextAppearance="@style/TabLayoutTextSize"
-                app:tabMode="fixed"
+
                 />
 
 

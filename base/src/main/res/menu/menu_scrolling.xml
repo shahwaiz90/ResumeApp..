@@ -5,6 +5,6 @@
     <item
         android:id="@+id/action_settings"
         android:title="@string/action_settings"
-        android:icon="@drawable/logo"
+        android:icon="@mipmap/logo"
         app:showAsAction="always" />
 </menu>

@@ -27,9 +27,7 @@
     </style>
 
 
-    <style name="CustomAlertDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
-        <item name="android:windowBackground">@drawable/round</item>
-    </style>
+
 
 
     <style name="CustomRatingBar" parent="Theme.AppCompat">
